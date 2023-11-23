@@ -1,7 +1,13 @@
 # Word Count Macro for Microsoft Word
 
 ## Description
-This repository contains a VBA (Visual Basic for Applications) macro for Microsoft Word. The macro is designed to:
+## Description
+This repository contains a VBA (Visual Basic for Applications) macro for Microsoft Word, born out of my personal journey in editing my PhD thesis.
+As a PhD candidate, I faced the significant challenge of bringing my expansive research down to the required word limit.
+Traditional word counting methods in Word were not cutting it, especially when dealing with specific sections and heading levels.
+This macro was developed as a solution to precisely count words in specific sections and under specific headings, making the daunting task of editing much more manageable.
+
+The macro is designed to:
 - Count the number of words in spans under Heading 1 and Heading 2 and Heading 3.
 - Calculate the total number of words in a document section from "ABSTRACT" to "REFERENCES".
 
