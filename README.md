@@ -11,6 +11,9 @@ The macro is designed to:
 - Count the number of words in spans under Heading 1 and Heading 2 and Heading 3.
 - Calculate the total number of words in a document section from "ABSTRACT" to "REFERENCES".
 
+I am sharing this macro in the hope that it might help someone out there facing similar challenges, whether it's managing a PhD thesis, a lengthy report, or any other document where precise word count control is essential.
+Goodluck with your writing!:thumbsup:
+
 ## Usage
 To use the macro, follow these steps:
 1. **Open Microsoft Word** and the document you want to analyze.
