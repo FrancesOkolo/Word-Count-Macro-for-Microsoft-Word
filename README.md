@@ -2,7 +2,7 @@
 
 ## Description
 This repository contains a VBA (Visual Basic for Applications) macro for Microsoft Word. The macro is designed to:
-- Count the number of words in spans under Heading 1 and Heading 2.
+- Count the number of words in spans under Heading 1 and Heading 2 and Heading 3.
 - Calculate the total number of words in a document section from "ABSTRACT" to "REFERENCES".
 
 ## Usage
