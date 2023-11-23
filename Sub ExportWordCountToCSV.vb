@@ -10,8 +10,8 @@ Sub ExportWordCountToCSV()
     desktopPath = CreateObject("WScript.Shell").SpecialFolders("Desktop")
     outputFileName = desktopPath & "\WordCountReport.csv"
 
-    ' Loop for Heading 1 and Heading 2
-    For h = 1 To 2
+    ' Loop for Heading 1, Heading 2, and Heading 3
+    For h = 1 To 3
         With doc.Range
             With .Find
                 .ClearFormatting
