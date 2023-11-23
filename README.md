@@ -1,7 +1,6 @@
 # Word Count Macro for Microsoft Word
 
 ## Description
-## Description
 This repository contains a VBA (Visual Basic for Applications) macro for Microsoft Word, born out of my personal journey in editing my PhD thesis.
 As a PhD candidate, I faced the significant challenge of bringing my expansive research down to the required word limit.
 Traditional word counting methods in Word were not cutting it, especially when dealing with specific sections and heading levels.
